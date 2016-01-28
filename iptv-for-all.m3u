@@ -1,0 +1,296 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="rudaw.jpg" group-title="Kurdish TV",Rudaw HD
+http://livestreaming.itworkscdn.net/rudawlive/rudawtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="nrt HD.jpg" group-title="Kurdish TV",NRT HD 
+rtmp://nrttv.iptv-playoutcenter.de:1935/nrt1/_definst_/mp4:nrt1.stream_1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="kurdistan_24_iq.png" group-title="Kurdish TV",Kurdistan 24 TV
+http://62.210.100.139:1935/kurdistan24tv/smil:kurdistan24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="knn_iq.png" group-title="Kurdish TV",KNN TV
+rtsp://51.254.209.160:1935/live/livestream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="kurdsat.jpg" group-title="Kurdish TV",Kurdsat TV
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="kurdsat_news_iq.png" group-title="Kurdish TV",Kurdsat News 
+rtmp://68.168.105.117:1935/live/livestream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="GK.jpg" group-title="Kurdish TV",Gali Kurdistan
+rtmp://64.150.177.45/live//mp4:myStream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="nrt2.jpg" group-title="Kurdish TV",NRT 2 
+rtmp://nrttv.iptv-playoutcenter.de:1935/nrt2/_definst_/mp4:nrt2.stream_1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="ROJIKurd.jpg" group-title="Kurdish TV",ROJI Kurd 
+http://87.81.198.172:80/hls/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kurdish TV", New Line HD
+rtmp://kurd-live.com/live/new
+
+#EXTINF:-1 tvg-logo="" group-title="Kurdish TV", Cihan TV
+rtmp://kurd-live.com/live/cihan
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="kurdistan_tv.png" group-title="Kurdish TV",Kurdistan TV 
+http://84.244.187.12:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="zagros.jpg" group-title="Kurdish TV",Zagros HD
+http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="waar tv.jpg" group-title="Kurdish TV",Waar HD
+http://avenuewtv.srfms.com:2219/live//livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="speda_channel_iq.png" group-title="Kurdish TV",Speda TV
+http://kurd-live.com:1935/live/speda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="kurdmax_tv.png" group-title="Kurdish TV",Kurdmax HD
+rtmp://live.kurdstream.net:1935/liveTrans/_definst_/mp4:myStream_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="cihan_tv_network_tr.jpg" group-title="Kurdish TV",Cihan TV
+rtmp://kurd-live.com/live/cihan
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="GemKurd.jpg" group-title="Kurdish TV",Gem Kurd
+http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="rega_tv.png" group-title="Kurdish TV",Rega TV
+http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="kanal 4 dk.png" group-title="Kurdish TV",Kanal 4
+http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Med Nuce TV.jpg" group-title="Kurdish TV",Med Nuce TV
+http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Sterk TV.jpg" group-title="Kurdish TV",Sterk TV
+http://198.100.158.231:1935/kanal6/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="med-muzik.jpg" group-title="Kurdish TV",Med Muzik TV
+rtmp://178.33.61.33:1936/medmuzik//muzikakurdi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="newroz.png" group-title="Kurdish TV",Newroz TV
+http://2.109.65.143/masa/14326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="ronahitv.jpg" group-title="Kurdish TV",Ronahi TV
+http://198.100.158.231:1935/kanal16/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="komala_tv.jpg" group-title="Kurdish TV",Komala TV
+rtmp://194.237.202.7:1937/live/KomalaTV_KurdChannel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="rojhelat.jpg" group-title="Kurdish TV",Rojhelat TV
+http://198.100.158.231:1935/kanal5/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="sahar2.png" group-title="Kurdish TV",Sahar Kurdish
+rtmp://fms.1830A.phicdn.net/201830A/kurdishInstance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="dengtv.jpg" group-title="Kurdish TV",Denge TV
+http://yayin3.canlitv.com:1935/live/dengetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Havin TV.png" group-title="Kurdish TV",Havin TV
+http://origin2.live.web.tv.streamprovider.net/streams/894b55a9a7fa8f9b20da735e2112b034/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="jiyan-tv-logo.jpg" group-title="Kurdish TV",Jiyan TV
+http://origin.live.web.tv.streamprovider.net/streams/e3490d55c5dfc38e758ade69815cd9ef_live_0_0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="damla.jpg" group-title="Kurdish TV",Damla TV
+10.http://origin.live.web.tv.streamprovider.net/streams/8c4a5bd6d3c5d3c21c11deb333bd4b7d/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="amozhgary.jpg" group-title="Kurdish TV",Amozhgary TV
+rtmp://51.254.210.165/live/livestream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="cira_tv.png" group-title="Kurdish TV", Cira TV 
+http://62.210.100.139:1935/ciratv/smil:cira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="waar tv.png" group-title="Kurdish TV",Waar TV
+rtmp://avenuewtv.srfms.com:2219/live//livestream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Kurdish TV",TRT KURDI
+http://2.109.65.246/masa/24613.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Kurdish TV",CIVAN TV
+http://origin.live.web.tv.streamprovider.net/streams/67e549d113af70425ad2b3283d2ddb2b_live_0_0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Kurdish TV",MEZOPOTAMYA
+http://origin2.live.web.tv.streamprovider.net/streams/9b3c9b3ece0e1415716913d97f8d0c17/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Kurdish TV",TV 10
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Kurdish TV",Zarok TV
+http://62.210.100.139:1935/zaroktv/smil:zarok.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="kurdmax_tv.png" group-title="Kurdish TV", Kurdmax Pepule
+http://live.kurdstream.net:1935/liveTrans/Pepule_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Kurdish TV",HAVIN TV
+http://origin2.live.web.tv.streamprovider.net/streams/894b55a9a7fa8f9b20da735e2112b034/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Kurdish TV",GOVEND KURT
+http://origin.live.web.tv.streamprovider.net/streams/04c042818579efb61acf6a75e6a02774/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Kurdish TV",OZGUR GUNDEM
+http://guntv.mediatriple.net/guntv/guntv2/Playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV",PMC TV
+http://63.237.48.23/ios/PMC/PMC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Mifa TV
+http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Nex1 TV
+http://63.237.48.23/ios/NEX_1/NEX_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", AAA Music
+http://63.237.48.23/ios/AAA_MUSIC/AAA_MUSIC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", TM TV
+http://63.237.48.23/ios/TM_TV/TM_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", TV Persia
+http://63.237.48.23/ios/TVP/TVP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Persian Music
+rtsp://63.237.48.23:5544/PERSIAN_MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Ti Tapesh
+http://63.237.48.23/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Gem TV
+http://63.237.48.23/ios/GEM_TV/GEM_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Gem USA TV
+http://63.237.48.23/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Gem Life
+http://63.237.48.23/ios/GEL_LIFE/GEL_LIFE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Gem Junior
+http://63.237.48.23/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Gem Bollywood
+http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", MYTV
+http://63.237.48.23/ios/4U_CARTOON/4U_CARTOON.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", River TV
+http://63.237.48.23/ios/GEM_RIVER/GEM_RIVER.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Rubix TV
+http://63.237.48.23/ios/GEM_RUBIX/GEM_RUBIX.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", AAA Family
+http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", ITN TV
+http://63.237.48.23/ios/ITN/ITN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Farsi 1
+http://63.237.48.23/ios/FARSI1/FARSI1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Persian Movie
+http://63.237.48.23/ios/PERSIAN_MOVIE/PERSIAN_MOVIE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Face 2
+http://63.237.48.23/ios/FACE2/FACE2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Tik TV
+http://63.237.48.23/ios/TIK_TV/TIK_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Iran FM
+http://63.237.48.23/ios/IRAN_FMTV/IRAN_FMTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Merci TV
+http://63.237.48.23/ios/MERCI_TV/MERCI_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Iran MNTV
+http://63.237.48.23/ios/IRAN_MNTV/IRAN_MNTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", MI TV
+>http://63.237.48.23/ios/MI_TV/MI_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Persian Star 1
+http://63.237.48.23/ios/PERSIAN_STAR_1/PERSIAN_STAR_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Persian Star 2
+http://63.237.48.23/ios/PERSIAN_STAR_2/PERSIAN_STAR_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Iran ASTV
+http://63.237.48.23/ios/IRAN_AS_TV/IRAN_AS_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", ICC TV
+rtsp://63.237.48.23:5544/ICC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", ITC TV
+http://63.237.48.23/ios/ITC/ITC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Didar TV
+http://63.237.48.23/ios/DIDAR/DIDAR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", VOA Persian
+rtmp://cp233584.live.edgefcs.net/live/LIVE_IPTV_VOA_PNN@119414
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Didgah TV
+http://63.237.48.23/ios/DIDGAH_TV/DIDGAH_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Tin TV
+http://63.237.48.23/ios/TIN/TIN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Pars TV
+http://63.237.48.23/ios/PARSTV/PARSTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Iran ATV
+http://63.237.48.23/ios/IRAN_A_TV/IRAN_A_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib 1
+http://63.237.48.23/ios/IRIB_TV1/IRIB_TV1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib 2
+http://63.237.48.23/ios/IRIB_TV2/IRIB_TV2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib 3
+http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib 4
+http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib 5
+http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irinn TV
+http://63.237.48.23/ios/IRINN/IRINN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Amoozesh
+http://63.237.48.23/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Pooya
+http://63.237.48.23/ios/POOYA_TV/POOYA_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Namayesh
+http://63.237.48.23/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Shoma
+http://63.237.48.23/ios/IRIB_SHOMA/IRIB_SHOMA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Nasim
+http://63.237.48.23/ios/IRIB_NASIM/IRIB_NASIM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Salamat
+http://63.237.48.23/ios/IRIB_SALAMAT/IRIB_SALAMAT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Baran
+http://s3.telewebion.com:1935/devices/baran-300k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Jame Jam 1
+http://63.237.48.23/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Jame jam 2
+rtsp://63.237.48.23:5544/JAME_JAM_TV_NETWORK_2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Ifilm
+http://63.237.48.23/ios/IFILM/IFILM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Quran
+http://63.237.48.23/ios/QURAN_TV/QURAN_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Mostanad
+http://63.237.48.23/ios/IRIB_MOSTANAD/IRIB_MOSTANAD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Bazar
+http://63.237.48.23/ios/IRIB_BAZAR/IRIB_BAZAR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Persian TV", Irib Varzesh
+http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Iraq TV",Iraq Today
+http://2.109.65.142/masa/14229.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Iraq TV", Salam tv
+http://streamer1.hamuraabi.com:1935/salam/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Iraq TV",El Shorouk
+http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Iraqsport.jpg" group-title="Iraq TV", Iraqiya News
+http://212.7.205.5:1935/Iraqia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Sumaria.jpg" group-title="Iraq TV", Sumariya TV
+rtsp://livestreaming2.itworkscdn.net/sumarialive/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="al_baghdadia_iq.png" group-title="Iraq TV",Al Baghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="al_baghdadia_iq.png" group-title="Iraq TV",Al Baghdadia Drama
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="tv_alfurat_tv.jpg" group-title="Iraq TV", Al Forat TV
+rtmp://alforatlive.nanocdn.com:1935/live/alforat256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="al_sharqiya_tv_iq.jpg" group-title="Iraq TV", Sharqhiya TV
+rtmp://ns8.indexforce.com/home/mystream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Iraq TV", Alhurra Iraq
+rtmp://cp51007.live.edgefcs.net/live//Alhurra_Iraq_Flash@7095
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Iraq TV",Dijlah TV
+http://stream.joinvisions.net:1935/dij/dij/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="al_sharqiya_tv.png" group-title="Iraq TV",Al Sharqiya 
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="al_sharqiya_tv.png" group-title="Iraq TV",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="Iraq TV",Al Sharqiya Television
+rtmp://alforatlive.nanocdn.com/live/alforat256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Al Jazeera.jpg" group-title="News", Al Jazeera
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Al Jazeera.png" group-title="News",AL Jazeera Mubasher 
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Alarabiya.jpg" group-title="News",Al Arabiya
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Al Hadath.png" group-title="News", Al Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="bbcworld.png" group-title="News", BBC Arabic
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="rt.gif" group-title="News", RT Arabic
+http://rt-lh.akamaihd.net/i/ch_03@325607/index_720p_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="i 24 news.png" group-title="News", i24 News Arabic
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="france24_arabic.jpg" group-title="News", France24 Arabic
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Al_Jazeera_Doc.jpg" group-title="News",Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="BBC news.png" group-title="News",BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="ABC-News.jpg" group-title="News",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="Deutsche Welle.png" group-title="News",DW Arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="bbc persian.png" group-title="News",BBC Persian
+http://63.237.48.23/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+
+
+
+
